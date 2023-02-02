@@ -7,9 +7,7 @@ In 2022, the COVID-19 pandemic has started to subside. Many people carry out nor
 
 ### Methods Used
 * Machine Learning
-* Logistic Regression
-* Support Vector Machines
-* Decision Tree
+* Multivariate Regression
 
 ### Language
 * Python
